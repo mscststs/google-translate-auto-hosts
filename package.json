@@ -1,0 +1,22 @@
+{
+  "name": "cn-google-translate-auto-hosts",
+  "version": "1.0.1",
+  "description": "cn 谷歌翻译写入 hosts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mscststs/google-translate-auto-hosts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mscststs/google-translate-auto-hosts/issues"
+  },
+  "homepage": "https://github.com/mscststs/google-translate-auto-hosts#readme"
+}
